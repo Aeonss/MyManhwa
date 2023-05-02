@@ -2,7 +2,7 @@
 
 <font size="3">
 
-MyManhwa scrapes popular scanlation and aggregators to get manhwa information.
+MyManhwa scrapes popular scanlation and aggregator sites to get manhwa information.
 
 ## 🔨 &nbsp; Installation
 Install python:
@@ -86,12 +86,24 @@ prev = chapter.prev
 <tr>
     <th>Site</th>
     <th>URL</th>
+    <th>Theme</th>
 </tr>
 </thead>
 <tbody valign="top">
 <tr>
     <td>AsuraScans</td>
     <td>https://www.asurascans.com/</td>
+    <td>MangaStream</td>
+</tr>
+<tr>
+    <td>FlameScans</td>
+    <td>https://flamescans.org/</td>
+    <td>MangaReader</td>
+</tr>
+<tr>
+    <td>Void-Scans</td>
+    <td>https://void-scans.com/</td>
+    <td>MangaStream</td>
 </tr>
 </tbody>
 </table>
