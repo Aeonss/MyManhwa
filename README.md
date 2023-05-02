@@ -101,6 +101,11 @@ prev = chapter.prev
     <td>MangaReader</td>
 </tr>
 <tr>
+    <td>ReaperScans</td>
+    <td>https://reaperscans.com/</td>
+    <td></td>
+</tr>
+<tr>
     <td>Void-Scans</td>
     <td>https://void-scans.com/</td>
     <td>MangaStream</td>
