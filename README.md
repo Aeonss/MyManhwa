@@ -2,7 +2,7 @@
 
 <font size="3">
 
-MyManhwa scrapes popular scanlation and aggregator sites to get manhwa information.
+MyManhwa scrapes popular scanlation and aggregator sites to get manhwa and chapter information.
 
 ## 🔨 &nbsp; Installation
 Install python:
