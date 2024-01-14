@@ -110,6 +110,10 @@ prev = chapter.prev
     <td>https://void-scans.com/</td>
     <td>MangaStream</td>
 </tr>
+<tr>
+    <td>Toonily</td>
+    <td>https://toonily.com/</td>
+</tr>
 </tbody>
 </table>
 
