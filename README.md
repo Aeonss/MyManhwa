@@ -113,6 +113,7 @@ prev = chapter.prev
 <tr>
     <td>Toonily</td>
     <td>https://toonily.com/</td>
+    <td></td>
 </tr>
 </tbody>
 </table>
